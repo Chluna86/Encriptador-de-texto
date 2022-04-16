@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root {
+    --bg-color: rgba(243, 245, 252, 1);
+    --dark-blue: rgba(10, 56, 113, 1);
+    --light-blue: rgba(216, 223, 232, 1);
+}
+
+body{
+    width: 1440px;
+    height: 1024px;
+    background: var(--bg-color);
+}
